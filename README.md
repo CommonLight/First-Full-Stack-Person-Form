@@ -1,3 +1,8 @@
+From this project, we will be doing our first full-stack core assignment... Product Manager in 3 stages. We'll see how it goes!!!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
